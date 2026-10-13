@@ -1,0 +1,7 @@
+Information Technology Mini Project: Huffman Text Compression and Decompression System.
+Data compression is the process of reducing the number of bits needed to represent data.
+Lossless data compression algorithms ensure that the original data can be perfectly reconstructed.
+Huffman coding is a greedy algorithm that assigns variable-length prefix codes to characters.
+Characters that appear with higher frequency receive shorter binary codes.
+Characters that appear with lower frequency receive longer binary codes.
+This demonstration verifies that encoding and decoding are completely lossless!
